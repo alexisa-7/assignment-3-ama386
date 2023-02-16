@@ -7,3 +7,10 @@ navbar:
       href: Alexis.html
     - text: "Adina"
       href: Adina.html  
+output:
+  html_document:
+    theme: cerulean 
+    highlight: textmate
+    toc: true 
+    toc_float: true
+    
