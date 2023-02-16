@@ -1,0 +1,7 @@
+---
+title: "Alexis"
+output: html_document
+---
+* I have an Australian Shepherd named Cooper
+* My birthday is on February 28th 
+* I love watermelon and strawberries

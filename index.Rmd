@@ -1,0 +1,10 @@
+---
+title: "Assignment 3 Website"
+output: html_document
+---
+
+Alexis Anderson: https://github.com/alexisa-7 
+<br>
+Adina Aamir: https://github.com/AdinaAamirNTRES 
+<br>
+![](https://cdn.britannica.com/89/131089-050-A4773446/flowers-garden-petunia.jpg)
