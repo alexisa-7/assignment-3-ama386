@@ -6,7 +6,7 @@ navbar:
     - text: "Alexis"
       href: alexis.html
     - text: "Adina"
-      href: Adina.Rmd 
+      href: Adina.html 
 output:
   html_document:
     theme: cerulean 

@@ -7,4 +7,5 @@ Alexis Anderson: https://github.com/alexisa-7
 <br>
 Adina Aamir: https://github.com/AdinaAamirNTRES 
 <br>
-![](https://cdn.britannica.com/89/131089-050-A4773446/flowers-garden-petunia.jpg)
+
+![Petunias are beautiful flowers](https://cdn.britannica.com/89/131089-050-A4773446/flowers-garden-petunia.jpg)
